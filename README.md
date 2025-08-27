@@ -20,9 +20,7 @@ Passionate about turning data into actionable insights, ensuring quality, and ex
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -53,17 +51,9 @@ inspire()
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Contribution Snake](https://github.com/Fatima1510/Fatima1510/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Let’s Connect!
 - [GitHub](https://github.com/Fatima1510)
 - [Instagram](https://www.instagram.com/_fa.teeemah_/)
 - [Twitter/X](https://x.com/lifeofdahlia)
 
 ---
-
-> ✨ “Keep coding, keep growing.” ✨
