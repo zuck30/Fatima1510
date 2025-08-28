@@ -8,8 +8,8 @@ Passionate about turning data into actionable insights, ensuring quality, and ex
 
 ## 🛠️ Top Skills
 - **Python** 🐍
-- **JavaScript** ✨
-- **Go** 🦫
+- **Story Telling** ✨
+- **Data Science** 😎
 - **Machine Learning** 🤖
 
 ---
