@@ -62,7 +62,7 @@
 <div align="center">
 <blockquote>
 <p><em>"Code. Eat. Music. Repeat."</em></p>
-<p><strong>— Fatima J. Bakari</strong></p>
+<p><strong> Fatima J. Bakari</strong></p>
 </blockquote>
 </div>
 
