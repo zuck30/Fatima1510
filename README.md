@@ -25,7 +25,7 @@
 </div>
 
 <br>
-<a href="https://github.com/Fatima1510"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+<a href="https://github.com/Fatima1510"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2QwOXE1NjVxcmxtYTdraWdvaDhmdW9kemhqZzIzZGZ5cXNrOGdvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ho8klqe5oPLa8g6BNe/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
   </a>
 
 <ul>
