@@ -49,7 +49,6 @@
 <h2>Profile Links</h2>
 <p>
     <a href="https://x.com/lifeofdahlia"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"></a>
-    <a href="https://www.linkedin.com/in/plensia-lukosi/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/_fa.teemah_/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a>
 
 </p>
