@@ -32,25 +32,26 @@
 
 **Languages**
 
-![My Skills](https://skillicons.dev/icons?i=python,js,go&perline=10)
+![dahlia technologies](https://skillicons.dev/icons?i=python,js,go&perline=10)
 
 **Frameworks & Libraries**
 
-![My Skills](https://skillicons.dev/icons?i=tensorflow&perline=10)
+![dahlia technologies](https://skillicons.dev/icons?i=tensorflow&perline=10)
 
 **Databases**
 
-![My Skills](https://skillicons.dev/icons?i=postgres&perline=10)
+![dahlia technologies](https://skillicons.dev/icons?i=postgres&perline=10)
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode&perline=10)
+![dahlia technologies](https://skillicons.dev/icons?i=git,github,vscode&perline=10)
 
-<h2>🖼 Profile Links</h2>
+<h2>Profile Links</h2>
 <p>
-    <a href="https://github.com/Fatima1510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.instagram.com/_fa.teeemah_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://x.com/lifeofdahlia"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"></a>
+    <a href="https://x.com/lifeofdahlia"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/plensia-lukosi/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/_fa.teemah_/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a>
+
 </p>
 
 <h2>☕️ Support Me</h2>
@@ -58,13 +59,30 @@
     <a href="https://www.buymeacoffee.com/fatima1510" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
 </p>
 
-
 <div align="center">
-<blockquote>
-<p><em>"Code. Eat. Music. Repeat."</em></p>
-<p><strong> Fatima J. Bakari</strong></p>
-</blockquote>
+<h2>Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+
+
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
+
+
+<!-- 
+
 
 <h2>📊 GitHub Stats</h2>
 
@@ -76,4 +94,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Fatima1510&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</xaiArtifact>
+</xaiArtifact> -->
