@@ -18,6 +18,19 @@
 </div>
 <p align="center">Hi, I'm Fatima J. Bakari, a Data Scientist and AI/ML enthusiast from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>. Passionate about turning data into insights, ensuring quality, and exploring machine learning!</p>
 
+
+<div align="center">
+
+<details>
+  <summary>Recently played</summary>
+  <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10" alt="Recently played">
+  </a>
+</details>
+
+</div>
+
+
 <h3>Quick Links</h3>
 
 <div align="left">
