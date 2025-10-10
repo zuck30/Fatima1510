@@ -23,13 +23,12 @@
 
 <details>
   <summary>Recently played</summary>
-  <a href="https://open.spotify.com/user/31mpawo7brnhlosrwln3rrpaocqy?si=fe662605da5643c7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mpawo7brnhlosrwln3rrpaocqy&count=10" alt="Recently played">
+  <a href="https://open.spotify.com/user/59ofrrn3irbwg8v8mz84xvlnq?si=YFo_IX2bSPib02eGCLUxtw">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=59ofrrn3irbwg8v8mz84xvlnq&count=10" alt="Recently played">
   </a>
 </details>
 
 </div>
-
 
 <h3>Quick Links</h3>
 
