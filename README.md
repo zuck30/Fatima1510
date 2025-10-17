@@ -88,6 +88,7 @@
 
 </div>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuck30&theme=dracula&column=-1&,PullRequest,Repositories,Commits,Issues" alt="Fatima Trophies." /></a> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
