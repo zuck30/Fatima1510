@@ -76,6 +76,13 @@
     <a href="https://www.buymeacoffee.com/fatima1510" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
 </p>
 
+
+<h2>Fatima's Trophies</h2>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fatima1510&theme=dracula&column=3&,PullRequest,Repositories,Commits,Issues" alt="Fatima trophies" /></a> </p>
+
+
 <div align="center">
 <h2>Quote of the day</h2>
 <details open>
@@ -86,9 +93,11 @@
 </details>
 
 
-</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuck30&theme=dracula&column=-1&,PullRequest,Repositories,Commits,Issues" alt="Fatima Trophies." /></a> </p>
+
+
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
