@@ -71,12 +71,6 @@
 
 </p>
 
-<h2>☕️ Support Me</h2>
-<p>
-    <a href="https://www.buymeacoffee.com/fatima1510" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
-</p>
-
-
 <h2>Fatima's Trophies</h2>
 
 
